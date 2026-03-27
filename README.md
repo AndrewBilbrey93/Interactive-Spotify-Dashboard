@@ -24,12 +24,10 @@ The data used in this dashboard is sourced from the Spotify API, providing real-
 
 ### Repository status & planned work
 
-#Current: 
-
+# Current: 
 -README and plan in place. Core Streamlit app (app.py) and Spotipy integration to be added.
 
-#Planned:
-
+# Planned:
 -app.py with Spotipy OAuth flow + CSV fallback
 -example .env template and instructions for Spotify credentials
 -requirements.txt (pinned)
